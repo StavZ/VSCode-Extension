@@ -7,7 +7,7 @@
     "engines": {
         "vscode": "^1.33.0"
     },
-    "icon": "vscode-extension.png",
+    "icon": "icon.png",
     "keywords": ["javascript", "node", "npm", "discord", "themes", "snippets"],
     "repository": {"url": "https://github.com/StavZ/VSCode-Extension"},
     "homepage": "https://github.com/StavZ/VSCode-Extension",
