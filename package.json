@@ -2,12 +2,13 @@
     "name": "useful-extension-pack-javascript",
     "displayName": "Useful Extention Pack",
     "description": "More useful visual studio code extentions for JavaScript Development",
+    "publisher": "StavZ",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.33.0"
     },
     "icon": "vscode-extension.png",
-    "keywords": ["javascript", "node.js", "npm", "discord", "themes", "snippets"],
+    "keywords": ["javascript", "node", "npm", "discord", "themes", "snippets"],
     "repository": {"url": "https://github.com/StavZ/VSCode-Extension"},
     "homepage": "https://github.com/StavZ/VSCode-Extension",
     "bugs": {
