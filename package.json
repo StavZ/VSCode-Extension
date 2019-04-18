@@ -1,0 +1,41 @@
+{
+    "name": "useful-extension-pack-javascript",
+    "displayName": "Useful Extention Pack",
+    "description": "More useful visual studio code extentions for JavaScript Development",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "icon": "vscode-extension.png",
+    "keywords": ["javascript", "node.js", "npm", "discord", "themes", "snippets"],
+    "repository": {"url": "https://github.com/StavZ/VSCode-Extension"},
+    "homepage": "https://github.com/StavZ/VSCode-Extension",
+    "bugs": {
+        "url": "https://github.com/StavZ/VSCode-Extension/issues"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "eg2.vscode-npm-script",
+        "PKief.material-icon-theme",
+        "vscode-icons-team.vscode-icons",
+        "auchenberg.vscode-browser-preview",
+        "aaron-bond.better-comments",
+        "CoenraadS.bracket-pair-colorizer-2",
+        "dbaeumer.vscode-eslint",
+        "donjayamanne.githistory",
+        "jolaleye.horizon-theme-vscode",
+        "oderwat.indent-rainbow",
+        "xabikos.JavaScriptSnippets",
+        "MS-vsliveshare.vsliveshare",
+        "yzhang.markdown-all-in-one",
+        "shd101wyy.markdown-preview-enhanced",
+        "Equinusocio.vsc-material-theme",
+        "tristanremy.mirage",
+        "christian-kohler.npm-intellisense",
+        "akamud.vscode-theme-onedark",
+        "icrawl.discord-vscode",
+        "zhuangtongfa.Material-theme"
+    ]
+}
