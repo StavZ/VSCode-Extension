@@ -23,7 +23,3 @@
 * [Atom One Dark Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark)
 * [Discord Presence](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode)
 * [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
-
-## More info & support
-
-[Discord Support Server](https://discord.gg/qv7KcNq) 
