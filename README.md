@@ -1,5 +1,4 @@
-# Useful Visual Studio Code Extensions By [Oni Project](https://github.com/oni-project/)
-
+# Useful Visual Studio Code Extensions.
 20 most useful extensions (Themes, Snippets, etc.)
 
 
